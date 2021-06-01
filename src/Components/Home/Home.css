@@ -2,7 +2,7 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
 }
 .home__typography {
@@ -10,7 +10,31 @@
   text-align: center;
   color: rgb(0, 28, 85);
   font-family: "Google Sans Bold";
+  padding: 5px;
 }
 .home__typography h1 {
-  font-size: 60px;
+  font-size: 80px;
+}
+.codingSvg svg {
+  width: 400px;
+}
+@media (max-width: 500px) {
+  .home__root {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+  .home__typography h1 {
+    font-size: 40px;
+  }
+  .home__typography h4 {
+    font-size: 12px;
+  }
+  .codingSvg svg {
+    width: 200px;
+    height: fit-content;
+  }
 }

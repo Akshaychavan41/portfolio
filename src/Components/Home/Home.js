@@ -10,7 +10,9 @@ function Home(props) {
         <h4>Web Developer || Photographer || Mechanical Engineer</h4>
         <SocialMedia />
       </div>
-      <CodingSvg />
+      <div className="codingSvg">
+        <CodingSvg />
+      </div>
     </div>
   );
 }
