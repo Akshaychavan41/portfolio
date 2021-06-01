@@ -1,0 +1,16 @@
+.home__root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home__typography {
+  margin-top: -30px;
+  text-align: center;
+  color: rgb(0, 28, 85);
+  font-family: "Google Sans Bold";
+}
+.home__typography h1 {
+  font-size: 60px;
+}
