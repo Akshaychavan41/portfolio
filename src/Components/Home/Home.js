@@ -1,7 +1,7 @@
 import React from "react";
 import SocialMedia from "../socialMedia/SocialMedia";
 import "./Home.css";
-import { ReactComponent as CodingSvg } from "../../Assets/svg/coding.svg";
+import { ReactComponent as CodingSvg } from "../../Assets/svg/customCoding.svg";
 function Home(props) {
   return (
     <div className="home__root">

@@ -16,7 +16,7 @@
   font-size: 80px;
 }
 .codingSvg svg {
-  width: 400px;
+  width: 600px;
 }
 @media (max-width: 500px) {
   .home__root {
@@ -34,7 +34,8 @@
     font-size: 12px;
   }
   .codingSvg svg {
-    width: 200px;
+    margin-bottom: 10px;
+    width: 230px;
     height: fit-content;
   }
 }
