@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.e81f1db9.chunk.css",
-    "main.js": "/portfolio/static/js/main.061ff121.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.061ff121.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.87b8cd6e.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.87b8cd6e.js.map",
-    "static/js/2.ccd20776.chunk.js": "/portfolio/static/js/2.ccd20776.chunk.js",
-    "static/js/2.ccd20776.chunk.js.map": "/portfolio/static/js/2.ccd20776.chunk.js.map",
-    "static/js/3.9758c7f6.chunk.js": "/portfolio/static/js/3.9758c7f6.chunk.js",
-    "static/js/3.9758c7f6.chunk.js.map": "/portfolio/static/js/3.9758c7f6.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.e81f1db9.chunk.css.map": "/portfolio/static/css/main.e81f1db9.chunk.css.map",
-    "static/js/2.ccd20776.chunk.js.LICENSE.txt": "/portfolio/static/js/2.ccd20776.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.3cd78665.ttf",
-    "static/media/coding.70470b91.svg": "/portfolio/static/media/coding.70470b91.svg"
+    "main.css": "/static/css/main.25cef5a8.chunk.css",
+    "main.js": "/static/js/main.061ff121.chunk.js",
+    "main.js.map": "/static/js/main.061ff121.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.915b9a86.js",
+    "runtime-main.js.map": "/static/js/runtime-main.915b9a86.js.map",
+    "static/js/2.433db98d.chunk.js": "/static/js/2.433db98d.chunk.js",
+    "static/js/2.433db98d.chunk.js.map": "/static/js/2.433db98d.chunk.js.map",
+    "static/js/3.9758c7f6.chunk.js": "/static/js/3.9758c7f6.chunk.js",
+    "static/js/3.9758c7f6.chunk.js.map": "/static/js/3.9758c7f6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.25cef5a8.chunk.css.map": "/static/css/main.25cef5a8.chunk.css.map",
+    "static/js/2.433db98d.chunk.js.LICENSE.txt": "/static/js/2.433db98d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/coding.70470b91.svg": "/static/media/coding.70470b91.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87b8cd6e.js",
-    "static/js/2.ccd20776.chunk.js",
-    "static/css/main.e81f1db9.chunk.css",
+    "static/js/runtime-main.915b9a86.js",
+    "static/js/2.433db98d.chunk.js",
+    "static/css/main.25cef5a8.chunk.css",
     "static/js/main.061ff121.chunk.js"
   ]
 }
