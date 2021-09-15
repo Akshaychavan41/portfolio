@@ -2,11 +2,11 @@
   width: 100vw;
   height: 100vh;
   display: flex;
-  justify-content: space-around;
   align-items: center;
+  flex-direction: column-reverse;
+  justify-content: center;
 }
 .home__typography {
-  margin-top: -30px;
   text-align: center;
   color: rgb(0, 28, 85);
   font-family: "Google Sans Bold";
@@ -15,8 +15,17 @@
 .home__typography h1 {
   font-size: 80px;
 }
+.arrow {
+  cursor: pointer;
+  width: 40px;
+  height: 50px;
+}
 .codingSvg svg {
-  width: 600px;
+  width: 500px;
+}
+.footer {
+  position: fixed;
+  bottom: 10px;
 }
 @media (max-width: 500px) {
   .home__root {
@@ -35,7 +44,7 @@
   }
   .codingSvg svg {
     margin-bottom: 10px;
-    width: 230px;
+    width: 250px;
     height: fit-content;
   }
 }

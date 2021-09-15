@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  box-sizing: border-box !important;
 }
 .App {
   background-color: rgb(237, 249, 254);

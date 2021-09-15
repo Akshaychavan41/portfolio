@@ -1,0 +1,96 @@
+.exp__root {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.exp__root .card {
+  width: 80%;
+  min-height: 80%;
+  padding: 10px;
+  text-align: justify;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+  background-color: inherit;
+  align-items: center;
+  border: 2px solid blue;
+  border-radius: 20px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.card .experience {
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.card .experience h3 {
+  font-size: 20px;
+}
+
+.exp__root h1 {
+  font-family: "Google Sans Bold";
+  font-size: 40px;
+}
+
+.exp__root .content li {
+  font-size: 16px;
+}
+.exp__root .content .title {
+  font-size: 30px;
+}
+.exp__root .page__title {
+  padding: 10px;
+  text-align: center;
+}
+
+@media (max-width: 500px) {
+  .exp__root .card {
+    width: 90%;
+    height: 90%;
+    padding: 5px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .exp__root .card .experience {
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+  }
+  .exp__root h1 {
+    font-family: "Google Sans Bold";
+    font-size: 30px;
+  }
+  .exp__root .experience .MuiTimelineContent-root {
+    padding: 0;
+  }
+  .experience .MuiTimelineOppositeContent-root {
+    flex: 0.4;
+    padding: 5px 3px;
+  }
+  .exp__root .content li {
+    font-size: 11px;
+  }
+  .exp__root .content .title {
+    font-size: 15px;
+    text-align: center;
+  }
+  .exp__root .MuiTypography-root.company {
+    font-size: 10px;
+  }
+  .exp__root .experience h3 {
+    font-family: "Google Sans Bold";
+    font-size: 11px;
+  }
+  .exp__root .experience ul {
+    padding-left: 20px;
+  }
+}
