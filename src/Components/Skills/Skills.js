@@ -48,10 +48,6 @@ function Skills(props) {
             <h5>CSS</h5>
           </div>
           <div className="outer">
-            <img className="logo" src={ReduxLogo} />
-            <h5>Redux</h5>
-          </div>
-          <div className="outer">
             <img className="logo" src={BootstrapLogo} />
             <h5>Bootstrap</h5>
           </div>
