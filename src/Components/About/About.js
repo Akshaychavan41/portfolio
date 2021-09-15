@@ -28,9 +28,9 @@ function About(props) {
               Hello! I am Akshay, a Front-end Developer
             </Typography>
             <Typography gutterBottom variant="body1" className="main">
-              A passionate individual who always thrives to work on end to end
-              products which develop sustainable and scalable social and
-              technical systems to create impact.
+              I am passionate about front-end technologies, particularly HTML5,
+              CSS3, Javascript and React js. I like creating awesome websites
+              using the latest technologies.
             </Typography>
             <Typography gutterBottom variant="body1" className="main">
               I enjoy creating things that live on the internet, whether that be
@@ -39,7 +39,7 @@ function About(props) {
               experiences.
             </Typography>
             <Typography gutterBottom variant="body1" className="main">
-              I also like to click pictures!
+              I also like to click pictures! 📷
             </Typography>
           </CardContent>
           <div className="profile__container">
