@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { Container, Navbar, Nav as Navb } from "react-bootstrap";
 import { Fade } from "react-reveal";
 import "./Nav.css";
-// import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
 function Nav(props) {
   const [show, handleShow] = useState(false);
   const [expanded, setExpanded] = useState(false);
