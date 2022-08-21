@@ -13,7 +13,6 @@ const Projects = () => {
       name: "Netflix-Clone",
       desc: "This is a practice project where I tried to build a clone of Netflix using React, Redux.",
       img: netflixImg,
-      deployed: "https://react-clone-7b865.web.app/",
       github: "https://github.com/Akshaychavan41/netflix-clone",
     },
     {
