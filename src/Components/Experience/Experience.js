@@ -20,13 +20,45 @@ function Experience(props) {
         <div className="card">
           <div className="experience">
             <Timeline>
+     <TimelineItem>
+                <TimelineOppositeContent>
+                  <Typography className="company" color="textSecondary">
+                    Senior Software Developer @Paytm
+                  </Typography>
+                  <Typography className="company" color="textSecondary">
+                    Dec 19 - Present
+                  </Typography>
+                </TimelineOppositeContent>
+                <TimelineSeparator>
+                  <TimelineDot color="primary" />
+                  <TimelineConnector />
+                </TimelineSeparator>
+                <TimelineContent className="content">
+                  <ul>
+                    <li>
+                      Working under Paytm Lending Vertical on the Paytm Postpaid product, serving 6 million active users
+                    </li>
+                    <li>
+                     Handling front‐end development for Paytm Postpaid, ensuring a seamless UI and exceptional performance
+                    </li>
+                    <li>
+                      Collaborated with product and design teams, providing valuable insights for improved user experience
+                    </li>
+                    <li>
+                      Build reusable components for internal component library in React, Typescript
+                    </li>
+                  </ul>
+                  <br />
+                  <h3>Tech Stack-: React, Node, MongoDB</h3>
+                </TimelineContent>
+              </TimelineItem>
               <TimelineItem>
                 <TimelineOppositeContent>
                   <Typography className="company" color="textSecondary">
                     Frontend Developer @Rebel Foods
                   </Typography>
                   <Typography className="company" color="textSecondary">
-                    Apr 21 - Present
+                    Apr 21 - Dec 19
                   </Typography>
                 </TimelineOppositeContent>
                 <TimelineSeparator>
