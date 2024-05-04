@@ -26,7 +26,7 @@ function Experience(props) {
                     Senior Software Developer @Paytm
                   </Typography>
                   <Typography className="company" color="textSecondary">
-                    Dec 19 - Present
+                    Dec 21 - Present
                   </Typography>
                 </TimelineOppositeContent>
                 <TimelineSeparator>
@@ -58,7 +58,7 @@ function Experience(props) {
                     Frontend Developer @Rebel Foods
                   </Typography>
                   <Typography className="company" color="textSecondary">
-                    Apr 21 - Dec 19
+                    Apr 21 - Dec 21
                   </Typography>
                 </TimelineOppositeContent>
                 <TimelineSeparator>
